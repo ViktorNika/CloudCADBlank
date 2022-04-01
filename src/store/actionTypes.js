@@ -1,0 +1,9 @@
+export const OPEN_PROJECT_TREE = 'OPEN_PROJECT_TREE';
+export const EDIT_PROJECT = 'EDIT_PROJECT';
+export const DELETE_PROJECT = 'DELETE_PROJECT';
+export const ADD_PROJECT = 'ADD_PROJECT';
+export const PROJECTS_LOADING = 'PROJECTS_LOADING';
+export const ADD_PROJECTS = 'ADD_PROJECTS';
+
+export const PM_LOADING = 'PM_LOADING';
+export const LOAD_PM_GROUPS = 'LOAD_PM_GROUPS';
