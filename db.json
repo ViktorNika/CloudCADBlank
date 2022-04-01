@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "name": "Project 1"
+    },
+    {
+      "name": "Project 5",
+      "id": 1
+    }
+  ],
+  "propertyManagerGroups": [
+    {
+      "name": "Display",
+      "controls": [
+        {
+          "type": "checkbox",
+          "label": "Mesh"
+        },
+        {
+          "type": "checkbox",
+          "label": "Vectors"
+        }
+      ]
+    },
+    {
+      "name": "Contour",
+      "controls": [
+        {
+          "type": "slider",
+          "label": "Point Count"
+        },
+        {
+          "type": "checkbox",
+          "label": "3D Profile"
+        }
+      ]
+    }
+  ]
+}
